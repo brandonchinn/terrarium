@@ -1,0 +1,48 @@
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Mac OS X Specific
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Maven
+target/
+
+# IntelliJ project files
+*.iml
+*.ipr
+*.iws
+/.idea/*
+!/.idea/codeStyleSettings.xml
+
+# Android Studio project files
+.gradle/
+local.properties
+build/
+captures/
+
+*~
+*.swp
